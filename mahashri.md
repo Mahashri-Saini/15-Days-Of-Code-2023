@@ -18,3 +18,12 @@
 
 - watched luv videos of maps and sets
   
+
+  ### Day 3
+
+[August] [31], 2023
+
+- tried to solve watermelon problem
+- half video on strings by luv babber
+- 2 problems of string
+   [https://pastebin.com/9NzhyjS2]
