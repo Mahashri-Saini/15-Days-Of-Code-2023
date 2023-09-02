@@ -39,3 +39,16 @@
   [https://pastebin.com/9YD1pGqu]
 - watched video(class,constructors,destructors)
    [https://pastebin.com/Uws6kgQ2]
+
+
+ ### Day 5
+
+[September] [2], 2023
+
+- way too long words[https://codeforces.com/problemset/problem/71/A]
+  submission link[https://codeforces.com/contest/71/submission/221593360]
+- tried to solve team problem
+  [https://pastebin.com/VqzBY8cV]
+- (video) learned about encapsulation, inheritance and polymorphism
+   [https://pastebin.com/xyrENFKB]
+   [https://pastebin.com/aWcQr1TQ]
