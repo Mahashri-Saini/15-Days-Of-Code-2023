@@ -2,7 +2,7 @@
 
 ### Day 1
 
-[August] [29], 2023
+August [29], 2023
 
 - Basics of pair
   [https://pastebin.com/06WwsyHf]
@@ -14,14 +14,14 @@
 
  ### Day 2
 
-[August] [30], 2023
+August 30, 2023
 
 - watched luv videos of maps and sets
   
 
  ### Day 3
 
-[August] [31], 2023
+August 31, 2023
 
 - tried to solve watermelon problem
 - half video on strings by luv babber
@@ -31,7 +31,7 @@
 
 ### Day 4
 
-[September] [1], 2023
+September 1, 2023
 
 - insertion sort algorithm
   [https://pastebin.com/pyQhN0HV]
@@ -43,7 +43,7 @@
 
  ### Day 5
 
-[September] [2], 2023
+September 2, 2023
 
 - way too long words[https://codeforces.com/problemset/problem/71/A]
   submission link[https://codeforces.com/contest/71/submission/221593360]
@@ -52,3 +52,13 @@
 - (video) learned about encapsulation, inheritance and polymorphism
    [https://pastebin.com/xyrENFKB]
    [https://pastebin.com/aWcQr1TQ]
+
+
+### Day 6
+
+September 3, 2023
+
+- linked list(insertion)
+  [https://pastebin.com/BC6Nr7Rh]
+- linked list(deletion from beginning)
+  [https://pastebin.com/SgsdCu0j]
