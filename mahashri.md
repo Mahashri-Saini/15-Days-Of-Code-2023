@@ -71,3 +71,13 @@ September 4, 2023
 
 - PPL lab problems
   [https://pastebin.com/TUUGNLGD]
+
+
+### Day 8
+
+September 5, 2023
+
+- DSA lab problems on linked list
+  [https://pastebin.com/74fqaynF]
+- tried to solve next round problem- [https://codeforces.com/problemset/problem/158/A]
+  code-[https://pastebin.com/0FJ50gKx]
