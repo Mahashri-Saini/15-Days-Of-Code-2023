@@ -62,3 +62,12 @@ September 3, 2023
   [https://pastebin.com/BC6Nr7Rh]
 - linked list(deletion from beginning)
   [https://pastebin.com/SgsdCu0j]
+
+
+
+  ### Day 7
+
+September 4, 2023
+
+- PPL lab problems
+  [https://pastebin.com/TUUGNLGD]
