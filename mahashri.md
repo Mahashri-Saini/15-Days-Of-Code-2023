@@ -81,3 +81,18 @@ September 5, 2023
   [https://pastebin.com/74fqaynF]
 - tried to solve next round problem- [https://codeforces.com/problemset/problem/158/A]
   code-[https://pastebin.com/0FJ50gKx]
+
+
+  ### Day 9
+
+september 6, 2023
+
+- domino_piling-[https://codeforces.com/problemset/problem/50/A] code-
+  [https://codeforces.com/contest/50/submission/221986296]
+- bit++[https://codeforces.com/problemset/problem/282/A]code-
+  [https://codeforces.com/contest/282/submission/221991401]
+- beautiful_matrix[https://codeforces.com/problemset/problem/263/A]code-
+   [https://codeforces.com/contest/263/submission/221991336]
+- petya_and_strings[https://codeforces.com/problemset/problem/112/A]code-
+   [https://codeforces.com/contest/112/submission/221992919]
+- DSA lab problems(circular and doubly linked list)
