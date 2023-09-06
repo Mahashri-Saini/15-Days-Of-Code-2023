@@ -85,7 +85,7 @@ September 5, 2023
 
   ### Day 9
 
-september 6, 2023
+September 6, 2023
 
 - domino_piling-[https://codeforces.com/problemset/problem/50/A] code-
   [https://codeforces.com/contest/50/submission/221986296]
@@ -96,3 +96,19 @@ september 6, 2023
 - petya_and_strings[https://codeforces.com/problemset/problem/112/A]code-
    [https://codeforces.com/contest/112/submission/221992919]
 - DSA lab problems(circular and doubly linked list)
+
+
+### Day 10
+
+September 7, 2023
+
+- word capitalisation-[https://codeforces.com/problemset/problem/281/A] code-
+  [https://codeforces.com/contest/281/submission/222128181]
+- boy or girl-[https://codeforces.com/problemset/problem/236/A] code-
+  [https://codeforces.com/contest/236/submission/222131790]
+- bear and big brother-[https://codeforces.com/problemset/problem/791/A]code-
+   [https://codeforces.com/contest/791/submission/222134990]
+- soldier and bananas-[https://codeforces.com/problemset/problem/546/A] code-
+   [https://codeforces.com/contest/546/submission/222135929]
+- elephant-[https://codeforces.com/problemset/problem/617/A]code-
+   [https://codeforces.com/contest/617/submission/222136503]
