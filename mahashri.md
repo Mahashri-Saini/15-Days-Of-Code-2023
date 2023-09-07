@@ -112,3 +112,7 @@ September 7, 2023
    [https://codeforces.com/contest/546/submission/222135929]
 - elephant-[https://codeforces.com/problemset/problem/617/A]code-
    [https://codeforces.com/contest/617/submission/222136503]
+- contest problem(two vessels)-[https://codeforces.com/problemset/problem/1872/A] code- 
+  [https://codeforces.com/contest/1872/submission/222262600]
+- contest problem(non coprime split)-[https://codeforces.com/problemset/problem/1872/C] code- 
+  [https://pastebin.com/0F1PN03h]
