@@ -89,11 +89,11 @@ September 6, 2023
 
 - domino_piling-[https://codeforces.com/problemset/problem/50/A] code-
   [https://codeforces.com/contest/50/submission/221986296]
-- bit++[https://codeforces.com/problemset/problem/282/A]code-
+- bit++[https://codeforces.com/problemset/problem/282/A] code-
   [https://codeforces.com/contest/282/submission/221991401]
-- beautiful_matrix[https://codeforces.com/problemset/problem/263/A]code-
+- beautiful_matrix[https://codeforces.com/problemset/problem/263/A] code-
    [https://codeforces.com/contest/263/submission/221991336]
-- petya_and_strings[https://codeforces.com/problemset/problem/112/A]code-
+- petya_and_strings[https://codeforces.com/problemset/problem/112/A] code-
    [https://codeforces.com/contest/112/submission/221992919]
 - DSA lab problems(circular and doubly linked list)
 
@@ -116,3 +116,23 @@ September 7, 2023
   [https://codeforces.com/contest/1872/submission/222262600]
 - contest problem(non coprime split)-[https://codeforces.com/problemset/problem/1872/C] code- 
   [https://pastebin.com/0F1PN03h]
+
+
+  ### Day 11
+
+September 8, 2023
+
+- word-[https://codeforces.com/problemset/problem/59/A] code-
+  [https://codeforces.com/contest/59/submission/222451439]
+- wrong subtraction-[https://codeforces.com/problemset/problem/977/A] code-
+  [https://codeforces.com/contest/977/submission/222454819]
+- nearly lucky number -[https://codeforces.com/problemset/problem/110/A]code-
+   [https://pastebin.com/C15XnFsv]
+- Anton and danik-[https://codeforces.com/problemset/problem/734/A] code-
+   [https://codeforces.com/contest/734/submission/222463925]
+- translation-[https://codeforces.com/problemset/problem/41/A]code-
+   [https://codeforces.com/contest/41/submission/222465773]
+- queue at the school-[https://codeforces.com/problemset/problem/266/B] code- 
+  [https://codeforces.com/contest/266/submission/222469032]
+- insomnia cure-[https://codeforces.com/problemset/problem/148/A] code- 
+  [https://codeforces.com/contest/148/submission/222472366]
