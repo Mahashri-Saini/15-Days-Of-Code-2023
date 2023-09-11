@@ -136,3 +136,37 @@ September 8, 2023
   [https://codeforces.com/contest/266/submission/222469032]
 - insomnia cure-[https://codeforces.com/problemset/problem/148/A] code- 
   [https://codeforces.com/contest/148/submission/222472366]
+
+
+  ### Day 12
+
+September 9, 2023
+
+- I am not well. Suffering from viral.
+ 
+
+ ### Day 13
+
+September 10, 2023
+
+- tried to solve balanced round problem- [https://codeforces.com/problemset/problem/1850/D]
+  [https://pastebin.com/06WwsyHf]
+- tried longest divisors interval- [https://codeforces.com/problemset/problem/1855/B] code-[https://pastebin.com/ekDRK2Js]
+- started video on stacks by luv babber 
+- tried other methods to reverse linked 
+
+
+ ### Day 14
+
+September 11, 2023
+
+- PPL lab problems on linked kist
+- sereja and dima- [https://codeforces.com/problemset/problem/1850/D] code-  [https://codeforces.com/contest/381/submission/222928940]
+- new year and hurry- [https://codeforces.com/problemset/problem/750/A] code-  [https://codeforces.com/contest/750/submission/222897253]
+- restoring three number- [https://codeforces.com/problemset/problem/1154/A] code-  [https://codeforces.com/contest/1154/submission/222902871]
+
+
+
+
+
+
