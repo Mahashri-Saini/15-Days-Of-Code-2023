@@ -166,6 +166,17 @@ September 11, 2023
 - restoring three number- [https://codeforces.com/problemset/problem/1154/A] code-  [https://codeforces.com/contest/1154/submission/222902871]
 
 
+### Day 15
+
+September 12, 2023
+
+- choosing teams-[https://codeforces.com/problemset/problem/432/A] code-
+  [https://codeforces.com/contest/432/submission/223126129]
+- borze-[https://codeforces.com/problemset/problem/32/B] code-
+  [https://codeforces.com/contest/32/submission/223129137]
+- implementation of stack using arrays
+
+
 
 
 
