@@ -177,6 +177,19 @@ September 12, 2023
 - implementation of stack using arrays
 
 
+### Day 16
+
+September 14, 2023
+
+- sum-[https://codeforces.com/problemset/problem/1742/A] code-
+  [https://codeforces.com/contest/1742/submission/223360319]
+- balanced array[https://codeforces.com/problemset/problem/1343/B] code-
+  [https://codeforces.com/contest/1343/submission/223383341]
+- mishka and game[https://codeforces.com/problemset/problem/703/A] code-
+   [https://codeforces.com/contest/703/submission/223385576]
+- required number- [https://codeforces.com/problemset/problem/1374/A] code-
+   [https://pastebin.com/UYUdDLvv]
+
 
 
 
