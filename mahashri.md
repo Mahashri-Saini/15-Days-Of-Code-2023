@@ -189,8 +189,12 @@ September 14, 2023
    [https://codeforces.com/contest/703/submission/223385576]
 - required number- [https://codeforces.com/problemset/problem/1374/A] code-
    [https://pastebin.com/UYUdDLvv]
+- stones on table[https://codeforces.com/problemset/problem/266/A] code- [https://codeforces.com/contest/266/submission/223393797]
 
 
+### Day 17
 
+September 16, 2023
 
+- black square- [https://codeforces.com/problemset/problem/431/A]code- [https://codeforces.com/contest/431/submission/223618895]
 
